@@ -3,7 +3,7 @@
 Arduino library for interfacing with an NES or SNES controller.
 
 ## About this Library ##
-This is Used for getting button states from with a NES or SNES contoller.
+This is Used for getting button states from a NES or SNES contoller.
 
 
 First create a NESC object and in the setup loop call the begin function passing it the arduino pins
