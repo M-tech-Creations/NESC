@@ -21,10 +21,10 @@ By using the logical or you are able to check is either A or B is presses in thi
 
  On the NES Controller, Pin 1 is Ground, 2 is Clock, 3 is Latch, 4 is Data out and 5 is +5v
    ____
-  /   1|
-  | 5 2|
-  | 6 3|
-  | 7 4|
+  / 0 1|  
+  | 5 2|  
+  | 6 3|  
+  | 7 4|  
   ------  
 
 This is still a work in progress and as of this point the SNES parts of this library have not been fully developed 
