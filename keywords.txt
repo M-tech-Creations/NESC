@@ -1,0 +1,45 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NESC	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+pressed	KEYWORD2
+released	KEYWORD2
+exclusivePressed	KEYWORD2
+upButton	KEYWORD2
+downButton	KEYWORD2
+leftButton	KEYWORD2
+rightButton	KEYWORD2
+startButton	KEYWORD2
+selectButton	KEYWORD2
+aButton	KEYWORD2
+bButton	KEYWORD2
+xButton	KEYWORD2
+yButton	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+A_BUTTON	LITERAL1
+B_BUTTON	LITERAL1
+X_BUTTON 	LITERAL1
+Y_BUTTON	LITERAL1
+SEL_BUTTON	LITERAL1
+START_BUTTON	LITERAL1
+UP_BUTTON	LITERAL1
+DOWN_BUTTON	LITERAL1
+LEFT_BUTTON	LITERAL1
+RIGHT_BUTTON	LITERAL1
+BUFFER	LITERAL1
+
+NES_CONTROLLER	LITERAL1
+SNES_CONTROLLER	LITERAL1
